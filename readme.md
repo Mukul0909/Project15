@@ -20,6 +20,6 @@ Took around **7 hrs**
 
 ## Live link
 
-[Project Link]( "Netlify")
+[Project Link](https://project15.vercel.app/)
 
 
